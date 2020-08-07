@@ -9,6 +9,5 @@ navigation:
 cta:
   url: ''
   button_text: ''
-published: false
 
 ---
